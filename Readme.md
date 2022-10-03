@@ -36,7 +36,7 @@ The WBA proposes that we enter an agreement wherein we will run four quarterly s
 
 
 
-![Flow Numbers Chart](https://github.com/Web3-Builders-Alliance/Flow/blob/master/flow.png)
+![Flow Numbers Chart](https://github.com/Web3-Builders-Alliance/Flow/blob/master/flow.png?raw=true)
 
 
 
