@@ -1,4 +1,4 @@
-```# Web3 Builders Alliance Flow Division 
+# Web3 Builders Alliance Flow Division 
 
 # Grant category
 
@@ -37,15 +37,6 @@ The WBA proposes that we enter an agreement wherein we will run four quarterly s
 
 
 ![Flow Numbers Chart](https://github.com/Web3-Builders-Alliance/Flow/blob/master/flow.png?raw=true)
-
-
-
-
-
-
-
-
-
 
 
 
