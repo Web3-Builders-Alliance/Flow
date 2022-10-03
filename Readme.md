@@ -6,7 +6,7 @@
 
 # Description
 
-The Web3 Builders Alliance trains aspiring lead and senior developers to serve projects across Web3. Juno Network funds the current 2 cohorts students are selected via an advanced, highly selective application process. For the upcoming cohort, there are close to 40 candidates signed up to participate. A partnership between the WBA and Flow creates immense potential to train developers to build the next wave of leading dApps in the Flow ecosystem.
+The Web3 Builders Alliance trains aspiring lead and senior developers to serve projects across Web3. Juno Network funds the current 2 cohorts students are selected via an advanced, highly selective application process. For the upcoming cohort, there are close to 90 candidates signed up to participate. A partnership between the WBA and Flow creates immense potential to train developers to build the next wave of leading dApps in the Flow ecosystem.
 
 The WBA model, a tremendous value added over traditional bootcamps, learning tutorials, and other commonly used self-directed learning approaches, developers complete factual and conceptual development asynchronously. In addition the class meets for three 90 minute live building sessions each week. These sessions maintain a minimum of a 5:1 student-to-teacher ratio and focus on building authentic projects that are relevant to the partner ecosystem. An example of a project that is in progress, developers learning at the institute funded by Juno are currently building twin test chains, and connecting them with IBC relayers.
 
