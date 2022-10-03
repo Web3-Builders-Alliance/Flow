@@ -42,77 +42,43 @@ The WBA proposes that we enter an agreement wherein we will run four quarterly s
 
 
 
-Milestone 1: InfraFlow
-Deliverable
-Time (Weeks)
-USD Cost (k)
-LMS Setup & Readiness
-Ongoing
--
-Identify/ Orient Instructors
-Ongoing
--
-Process Apps
-Ongoing
--
-Prerequisites Acceptances 
-Ongoing
--
-Cohort Engineering 
-Ongoing
--
-Launch Course
-2
--
-Milestone 1 Time (4 Weeks)
-4
-50
+## Milestone 1: InfraFlow
+
+* Time: 4 Weeks
+
+* USD Cost 50k
+
+* Identify/ Orient Instructors
+
+* Process Canidate Applications
+
+* Prerequisites Acceptances - Give out prerequisites to accepted applicants and track progress
+
+* Cohort Engineering - Prepare best cohort materials.
+
+* Launch Course - Ensure google class room and all tools are in order.
+
+## Milestone 2: Source
+
+* Time 7 Weeks
+
+* USD Cost (70k)
+
+* Module Clusters 1-2 (RUST and Cadence Foundations)  - 2 Weeks
+
+* Module Clusters 3-4 (Building and Capstone Proposals) - 3 Weeks
+
+* Module Clusters 5- 6 (Capstone Building and Finer Points) - 2 Weeks
 
 
+## Milestone 3: Educate & Place
 
+* Time 2 Weeks
 
+* 30 K
 
+* Goal: Ensure all educated students are placed in a job where they can build on flow and utilize thier skills
 
-Milestone 2: Source
-Deliverable
-Time (Weeks)
-USD Cost (k)
-Module Clusters 1-2 (RUST and Cadence Foundations) 
-2
-
-
-Module Clusters 3-4 (Building and Capstone Proposals)
-3
-
-
-Module Clusters 5- 6 (Capstone Building and Finer Points) 
-2
-
-
-Milestone 2 Time (7 Weeks)
-7
-70
-
-
-
-
-
-
-Milestone 3: Educate & Place
-Deliverable
-Time (Weeks)
-USD Cost (k)
-Capstone Defense
-2
-
-
-Milestone 3 Time (2 Weeks)
-2
-30
-
-
-
-> Note: You can leave the USD proposal empty / "TBD". Please consider adoption and/or maintenance milestones at the end of your project.
 
  
 # Team
@@ -120,7 +86,7 @@ Milestone 3 Time (2 Weeks)
 | Name                | Role                                                    | Bio                                                                              | Contact         |
 | ---------------| -----------------------------------|------------------------------------------------ | --------------- |
 |Devon Martens | Lead Smart Contract Instructor || Former bootcamp instructor at the University of Minnesota, Curriculum Engineer for a  Blockchain program at 2U. Currently is the principal blockchain engineer at Sweet. 6 years of development experience at multiple reputable companies.                                                                                                | dev@web3builders.dev |
-
+| ---------------| -----------------------------------|------------------------------------------------ | --------------- |
 |Richard | Lead Smart Contract Instructor || Richard is a senior blockchain engineer with almost 2 decades of professional engineering experience, and 5 + years working with Rust. Most notably, he developed the first Cosmos <> Solana multi-chain NFT mint with the HeroNFT collections, a project he was a the center of building.
 
 |Richard | Lead Cadence Instructor || Richard is a developer with Dapper Labs, where his expertise in Cadence and intimate familiarity with the Flow platform will allow us to deliver a masters level course that prepares certified graduates to step directly into productive roles on existing project, while also supporting the process of grooming emerging founder/developers in the Institute to spawn new projects. 
